@@ -1,0 +1,21 @@
+Squad,IsolationForest_Outlier,LOF_Outlier,Both_Methods_Outlier,LOF_Score
+Liverpool,True,False,False,0.9772412088460968
+Arsenal,False,False,False,0.9880935050037994
+Manchester City,False,False,False,0.9936514853094114
+Chelsea,False,False,False,0.9955006836681516
+Newcastle Utd,False,False,False,0.997147986737189
+Aston Villa,False,False,False,1.003671806457457
+Nott'ham Forest,False,False,False,1.005091792007922
+Brighton,False,False,False,1.0060430901161275
+Bournemouth,False,False,False,1.0016436158125646
+Brentford,False,False,False,1.007366540164641
+Fulham,False,False,False,1.0094640138628612
+Crystal Palace,False,False,False,1.0067180808212246
+Everton,False,True,False,1.0125765811971947
+West Ham,False,True,False,1.009575719345854
+Manchester Utd,False,True,False,1.0132098570788106
+Wolves,False,False,False,1.0087767592922534
+Tottenham,False,True,False,1.0141401966646097
+Leicester City,True,False,False,0.98716693614678
+Ipswich Town,True,False,False,0.988092239783141
+Southampton,True,False,False,0.9772412088460968

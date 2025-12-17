@@ -1,0 +1,20 @@
+support,itemsets
+0.35,frozenset({'xG_category=High'})
+0.35,frozenset({'xGA_category=Low'})
+0.35,frozenset({'Pts_category=High'})
+0.35,frozenset({'GA_category=Low'})
+0.3,frozenset({'GF_category=High'})
+0.35,frozenset({'GF_category=Medium'})
+0.3,frozenset({'GA_category=Medium'})
+0.3,frozenset({'xG_category=Medium'})
+0.3,frozenset({'xGA_category=Medium'})
+0.35,frozenset({'xG_category=Low'})
+0.35,frozenset({'GA_category=High'})
+0.3,frozenset({'Pts_category=Medium'})
+0.35,frozenset({'xGA_category=High'})
+0.35,frozenset({'GF_category=Low'})
+0.35,frozenset({'Pts_category=Low'})
+0.3,"frozenset({'GA_category=High', 'Pts_category=Low'})"
+0.3,"frozenset({'GA_category=High', 'xGA_category=High'})"
+0.3,"frozenset({'GA_category=High', 'Pts_category=Low', 'xGA_category=High'})"
+0.3,"frozenset({'Pts_category=Low', 'xGA_category=High'})"

@@ -1,0 +1,575 @@
+Player,Pos,Squad,IsolationForest_Outlier,LOF_Outlier,Both_Methods_Outlier,LOF_Score
+Aaron Cresswell,DF,West Ham,False,False,False,1.207112905690521
+Aaron Ramsdale,GK,Southampton,False,False,False,1.1524737663630795
+Aaron Wan-Bissaka,DF,West Ham,True,False,False,1.0880771957797086
+Abdoulaye Doucouré,MF,Everton,False,False,False,1.0945462347097024
+Abdukodir Khusanov,DF,Manchester City,False,False,False,1.1600546613356053
+Abdul Fatawu Issahaku,FW,Leicester City,False,False,False,1.4322372408326296
+Adam Armstrong,FW,Southampton,False,False,False,1.3942919031949559
+Adam Lallana,MF,Southampton,False,False,False,1.2547595637841586
+Adam Smith,DF,Bournemouth,False,False,False,1.144929084116871
+Adam Webster,DF,Brighton,False,False,False,1.1245647075878318
+Adam Wharton,MF,Crystal Palace,False,False,False,1.2718577994758777
+Adama Traoré,FW,Fulham,False,False,False,1.3285219405048536
+Albert Grønbaek,FW,Southampton,False,False,False,0.9708517797833215
+Alejandro Garnacho,MF,Manchester Utd,False,False,False,1.1448689498479994
+Alex Iwobi,FW,Fulham,True,False,False,1.304373668532414
+Alex McCarthy,GK,Southampton,False,True,False,1.8419797957582702
+Alex Palmer,GK,Ipswich Town,False,True,False,1.8256214511618052
+Alex Scott,MF,Bournemouth,False,False,False,1.0601090816140903
+Alexander Isak,FW,Newcastle Utd,True,False,False,1.3465849777269268
+Alexis Mac Allister,MF,Liverpool,True,False,False,1.3934252654223966
+Alfie Dorrington,DF,Tottenham,False,False,False,0.9919998394275936
+Alfie Pond,DF,Wolves,False,False,False,1.1861215495358786
+Ali Al Hamadi,FW,Ipswich Town,False,False,False,1.0190576734291803
+Alisson,GK,Liverpool,False,False,False,1.2049808836429194
+Alphonse Areola,GK,West Ham,False,False,False,1.1424558032821843
+Altay Bayındır,GK,Manchester Utd,False,True,False,1.815876122575795
+Amad Diallo,MF,Manchester Utd,False,False,False,1.1270613332347699
+Amadou Onana,MF,Aston Villa,False,False,False,1.0310110489181648
+Andreas Pereira,MF,Fulham,True,False,False,1.5702299832647362
+Andrew Robertson,DF,Liverpool,True,False,False,1.2445994598409575
+André,MF,Wolves,False,False,False,1.179022700291252
+André Onana,GK,Manchester Utd,False,False,False,1.1299139802720137
+Andrés García,DF,Aston Villa,False,False,False,1.1443035293068908
+Andy Irving,MF,West Ham,False,False,False,1.0364185397253605
+Anthony Elanga,FW,Nott'ham Forest,True,False,False,1.4741993103882067
+Anthony Gordon,FW,Newcastle Utd,False,False,False,1.1266604333856678
+Antoine Semenyo,FW,Bournemouth,True,False,False,1.2261779735391185
+Antonee Robinson,DF,Fulham,True,False,False,1.4516255900531
+Antony,DF,Manchester Utd,False,False,False,1.3018394333415855
+Antonín Kinský,GK,Tottenham,False,False,False,1.5578136451008513
+Archie Gray,DF,Tottenham,False,False,False,1.109042214421136
+Arijanet Muric,GK,Ipswich Town,False,False,False,1.4524704238533341
+Armando Broja,FW,Everton,False,False,False,0.977219914609275
+Armel Bella Kotchap,DF,Southampton,False,False,False,1.572572468453155
+Asher Agbinone,MF,Crystal Palace,False,True,False,1.945118661144828
+Ashley Young,DF,Everton,False,False,False,1.1764590655449285
+Axel Disasi,DF,Aston Villa,False,False,False,1.0784978666804284
+Axel Disasi,DF,Chelsea,False,False,False,1.1595766844406188
+Axel Tuanzebe,DF,Ipswich Town,False,False,False,1.1061121589431802
+Ayden Heaven,DF,Manchester Utd,False,False,False,0.9714687321771158
+Bart Verbruggen,GK,Brighton,False,False,False,1.1376601841438065
+Ben Brereton,FW,Southampton,False,False,False,1.084219292433249
+Ben Chilwell,DF,Crystal Palace,False,True,False,1.6836291965477481
+Ben Davies,DF,Tottenham,False,False,False,1.07040047413156
+Ben Godfrey,DF,Ipswich Town,False,True,False,1.7485305098782642
+Ben Johnson,DF,Ipswich Town,False,False,False,1.343135227063841
+Ben Mee,DF,Brentford,False,True,False,1.6296992201408098
+Ben White,DF,Arsenal,False,False,False,1.0761078209031107
+Ben Winterburn,MF,Bournemouth,False,False,False,0.9943946769066512
+Benoît Badiashile,DF,Chelsea,False,True,False,1.6609567075334684
+Bernardo Silva,MF,Manchester City,False,False,False,1.129954553868454
+Bernd Leno,GK,Fulham,False,False,False,1.1505811263794912
+Beto,FW,Everton,False,False,False,1.221232680716328
+Bilal El Khannouss,MF,Leicester City,False,False,False,1.1480864763741394
+Billy Gilmour,MF,Brighton,False,False,False,1.0249963617671525
+Bobby De Cordova-Reid,FW,Leicester City,False,False,False,1.3256960472429662
+Boubacar Kamara,MF,Aston Villa,False,False,False,1.037201639519118
+Boubacar Traoré,MF,Wolves,False,False,False,1.196778530342923
+Boubakary Soumaré,MF,Leicester City,False,False,False,1.0393425650025412
+Brajan Gruda,MF,Brighton,False,False,False,1.4650294361486818
+Brandon Austin,GK,Tottenham,False,False,False,1.3510521128931254
+Brennan Johnson,FW,Tottenham,False,False,False,1.0766900784630127
+Bruno Fernandes,MF,Manchester Utd,True,False,False,1.5917889335500206
+Bruno Guimarães,MF,Newcastle Utd,True,False,False,1.2126900900204836
+Bryan Mbeumo,FW,Brentford,True,True,True,1.7060003917713025
+Bukayo Saka,FW,Arsenal,True,False,False,1.3550067489395121
+Caleb Kporha,DF,Crystal Palace,False,False,False,1.2488402035202715
+Caleb Okoli,DF,Leicester City,False,False,False,1.201987269402588
+Callum Hudson-Odoi,FW,Nott'ham Forest,False,False,False,1.1197057018082346
+Callum Wilson,FW,Newcastle Utd,False,False,False,0.9709122304686038
+Calvin Bassey,DF,Fulham,False,False,False,1.0629465282340842
+Cameron Archer,FW,Southampton,False,False,False,1.3617745648739379
+Cameron Burgess,DF,Ipswich Town,False,False,False,1.1134004012752599
+Caoimhín Kelleher,GK,Liverpool,False,False,False,1.538831721239124
+Carlos Alcaraz,FW,Everton,False,False,False,1.2050023226033726
+Carlos Alcaraz,MF,Southampton,False,True,False,1.8143973245415226
+Carlos Baleba,MF,Brighton,False,False,False,1.1440259805804376
+Carlos Forbs,MF,Wolves,False,False,False,0.9759538534911124
+Carlos Soler,MF,West Ham,False,False,False,1.15702475211894
+Carlos Vinícius,MF,Fulham,False,False,False,1.1700862113651804
+Casemiro,MF,Manchester Utd,False,False,False,1.150058003595173
+Chadi Riad,DF,Crystal Palace,False,True,False,1.7960345040469679
+Charlie Taylor,DF,Southampton,False,True,False,1.6501975840741163
+Cheick Doucouré,MF,Crystal Palace,False,False,False,1.386874737665753
+Chidozie Obi-Martin,FW,Manchester Utd,False,False,False,1.1397446533599058
+Chiedozie Ogbene,FW,Ipswich Town,False,True,False,2.0206477223572117
+Chiquinho,MF,Wolves,False,False,False,1.0963416130115728
+Chris Richards,DF,Crystal Palace,False,False,False,1.14060097356326
+Chris Wood,FW,Nott'ham Forest,True,False,False,1.5321160359504373
+Christian Eriksen,MF,Manchester Utd,False,False,False,1.4826587384709071
+Christian Nørgaard,MF,Brentford,False,False,False,1.1863185399565241
+Christian Walton,GK,Ipswich Town,False,False,False,1.6059022712898332
+Christopher Nkunku,FW,Chelsea,False,False,False,1.1331586995736078
+Claudio Echeverri,FW,Manchester City,False,False,False,0.9976759098489193
+Cody Gakpo,FW,Liverpool,False,False,False,1.0528781750685696
+Cole Palmer,MF,Chelsea,True,True,True,1.6140765095012644
+Conor Bradley,DF,Liverpool,False,False,False,1.148793672771738
+Conor Chaplin,MF,Ipswich Town,False,False,False,1.2966970857258575
+Conor Coady,DF,Leicester City,False,False,False,1.2945656234246854
+Conor Townsend,DF,Ipswich Town,False,False,False,1.0804337365942205
+Craig Dawson,DF,Wolves,False,False,False,1.1517014527803937
+Cristian Romero,DF,Tottenham,False,False,False,1.1017487949472158
+Crysencio Summerville,FW,West Ham,False,False,False,1.1178246101063123
+Curtis Jones,MF,Liverpool,False,False,False,1.12483657682541
+Daichi Kamada,MF,Crystal Palace,False,False,False,1.0876119777065034
+Dan Burn,DF,Newcastle Utd,False,False,False,1.043855115398688
+Dane Scarlett,FW,Tottenham,False,False,False,1.115295249231463
+Dango Ouattara,FW,Bournemouth,False,False,False,1.1025153682244258
+Daniel Bentley,GK,Wolves,False,True,False,1.9434967881090313
+Daniel Jebbison,FW,Bournemouth,False,False,False,1.2003389759489296
+Daniel Muñoz,DF,Crystal Palace,True,False,False,1.1800307249523159
+Daniel Podence,MF,Wolves,False,False,False,1.0062971650806647
+Danilo,MF,Nott'ham Forest,False,True,False,2.031665015917979
+Danny Ings,FW,West Ham,False,False,False,1.3028937386825676
+Danny Ward,GK,Leicester City,False,True,False,1.911286207362617
+Danny Welbeck,FW,Brighton,False,False,False,1.2992819226431642
+Dara O'Shea,DF,Ipswich Town,False,False,False,1.0768074633704063
+Darwin Núñez,FW,Liverpool,False,False,False,1.1556620442366932
+David Brooks,FW,Bournemouth,False,False,False,1.148713462733254
+David Raya,GK,Arsenal,False,False,False,1.142849829136482
+Dean Henderson,GK,Crystal Palace,False,False,False,1.1586800427016428
+Dean Huijsen,DF,Bournemouth,False,False,False,1.0720599417942627
+Declan Rice,MF,Arsenal,True,False,False,1.2615856064514892
+Dejan Kulusevski,MF,Tottenham,False,False,False,1.1528258059655434
+Destiny Udogie,DF,Tottenham,False,False,False,1.081042713543145
+Diego Carlos,DF,Aston Villa,False,False,False,1.0838829719991039
+Diego Gómez,MF,Brighton,False,False,False,1.1628445315597202
+Diogo Dalot,DF,Manchester Utd,False,False,False,1.1002391579187962
+Diogo Jota,FW,Liverpool,False,False,False,1.182961408187697
+Divin Mubama,FW,Manchester City,False,False,False,0.9935721886538982
+Djed Spence,DF,Tottenham,False,False,False,1.0513885938902043
+Dominic Calvert-Lewin,FW,Everton,False,False,False,1.3125400775162215
+Dominic Solanke,FW,Tottenham,False,False,False,1.1414526532127973
+Dominik Szoboszlai,MF,Liverpool,True,False,False,1.1872162383849154
+Donyell Malen,FW,Aston Villa,False,False,False,1.045086533449415
+Dwight McNeil,MF,Everton,False,False,False,1.3930072008490235
+Eberechi Eze,MF,Crystal Palace,True,False,False,1.4768889475234321
+Eddie Nketiah,FW,Crystal Palace,False,False,False,1.205724074405316
+Ederson,GK,Manchester City,False,False,False,1.2785545553236706
+Edmond-Paris Maghoma,MF,Brentford,False,False,False,1.0128277700609858
+Edson Álvarez,MF,West Ham,False,False,False,1.0612087166388644
+Eiran Cashin,DF,Brighton,False,False,False,1.0041551376417843
+Elliot Anderson,MF,Nott'ham Forest,True,False,False,1.3486395952562107
+Emerson Palmieri,DF,West Ham,False,False,False,1.1609430302349457
+Emi Buendía,MF,Aston Villa,False,False,False,1.33726433381906
+Emil Krafth,DF,Newcastle Utd,False,False,False,0.9924905256621074
+Emile Smith Rowe,MF,Fulham,False,False,False,1.128357457880259
+Emiliano Martínez,GK,Aston Villa,False,False,False,1.1586087963350777
+Emmanuel Agbadou,DF,Wolves,False,False,False,1.0935086496641024
+Enes Ünal,FW,Bournemouth,False,False,False,1.25526020379484
+Enzo Fernández,MF,Chelsea,True,False,False,1.180211948683293
+Eric da Silva Moreira,MF,Nott'ham Forest,False,False,False,1.1351209832591442
+Erling Haaland,FW,Manchester City,True,False,False,1.371156417146056
+Ethan Nwaneri,FW,Arsenal,False,False,False,1.303205988364917
+Ethan Pinnock,DF,Brentford,False,False,False,1.0481112000903101
+Evan Ferguson,FW,Brighton,False,False,False,1.4686363804872795
+Evan Ferguson,FW,West Ham,False,False,False,1.098194945669158
+Evanilson,FW,Bournemouth,False,False,False,1.1697908231874883
+Ezri Konsa,DF,Aston Villa,False,False,False,1.087287635211422
+Fabian Schär,DF,Newcastle Utd,True,False,False,1.207071519882891
+Fabio Carvalho,FW,Brentford,False,False,False,1.049647935697073
+Facundo Buonanotte,FW,Leicester City,False,False,False,1.233997776275534
+Federico Chiesa,FW,Liverpool,False,False,False,1.0227242379170243
+Ferdi Kadioglu,DF,Brighton,False,False,False,1.10109475528824
+Filip Jørgensen,GK,Chelsea,False,True,False,1.9104573901413862
+Flynn Downes,MF,Southampton,False,False,False,1.0140773040527404
+Frank Onyeka,MF,Brentford,False,False,False,0.9932386713949759
+Fraser Forster,GK,Tottenham,False,True,False,1.6904160294099397
+Gabriel Jesus,FW,Arsenal,False,False,False,1.4213723360506207
+Gabriel Magalhães,DF,Arsenal,False,False,False,1.0742988259658754
+Gabriel Martinelli,FW,Arsenal,False,False,False,1.0497806708957764
+George Edmundson,DF,Ipswich Town,False,False,False,1.1919922919035932
+George Hirst,FW,Ipswich Town,False,False,False,1.0687322353319242
+Georginio Rutter,MF,Brighton,False,False,False,1.1979327266604094
+Gonçalo Guedes,MF,Wolves,False,False,False,1.258705277015195
+Guglielmo Vicario,GK,Tottenham,False,False,False,1.3107265164729553
+Guido Rodríguez,MF,West Ham,False,False,False,1.1079166013507447
+Gustavo Nunes,FW,Brentford,False,False,False,1.1464650681189712
+Hamza Choudhury,MF,Leicester City,False,True,False,2.0903541905665017
+Harrison Armstrong,MF,Everton,False,True,False,1.8158941586864643
+Harrison Reed,MF,Fulham,False,False,False,0.9739830263207484
+Harry Amass,DF,Manchester Utd,False,False,False,1.0510932587485482
+Harry Clarke,DF,Ipswich Town,False,False,False,1.5038408950843332
+Harry Howell,FW,Brighton,False,True,False,6.460382320490181
+Harry Maguire,DF,Manchester Utd,False,False,False,1.0909396817266712
+Harry Toffolo,DF,Nott'ham Forest,False,False,False,1.0747358363048778
+Harry Wilson,FW,Fulham,False,False,False,1.2573904061067513
+Harry Winks,MF,Leicester City,False,False,False,1.09436089717874
+Harvey Barnes,FW,Newcastle Utd,False,False,False,1.0465949401265624
+Harvey Elliott,MF,Liverpool,False,False,False,1.2155800831571377
+Hwang Hee-chan,MF,Wolves,False,False,False,1.0787946885811333
+Hákon Valdimarsson,GK,Brentford,False,True,False,1.9179776228660494
+Ian Maatsen,DF,Aston Villa,False,False,False,1.1565800146298764
+Ibrahim Sangaré,MF,Nott'ham Forest,False,False,False,1.2193995124904917
+Ibrahima Konaté,DF,Liverpool,False,False,False,1.0537419737937908
+Idrissa Gana Gueye,MF,Everton,False,False,False,1.1827410519045973
+Igor,DF,Brighton,False,False,False,1.0580460718582132
+Iliman Ndiaye,FW,Everton,False,False,False,1.2043237712954218
+Illia Zabarnyi,DF,Bournemouth,False,False,False,1.0601189794877837
+Ismaila Sarr,MF,Crystal Palace,True,False,False,1.117856195938733
+Issa Diop,DF,Fulham,False,False,False,1.0645150919183728
+Jack Clarke,FW,Ipswich Town,False,False,False,1.2374255796506204
+Jack Grealish,FW,Manchester City,False,False,False,1.1661796962905222
+Jack Harrison,FW,Everton,False,False,False,1.3649664359699352
+Jack Hinshelwood,MF,Brighton,False,False,False,1.1612056741202514
+Jack Stephens,DF,Southampton,False,False,False,1.0585994001959513
+Jack Taylor,MF,Ipswich Town,False,False,False,1.145222862562767
+Jacob Greaves,DF,Ipswich Town,False,False,False,1.0619923641676228
+Jacob Murphy,FW,Newcastle Utd,False,False,False,1.1894553482234598
+Jacob Ramsey,FW,Aston Villa,False,False,False,1.149777031161284
+Jaden Philogene Bidace,FW,Aston Villa,False,False,False,0.9840977146529415
+Jaden Philogene Bidace,FW,Ipswich Town,False,False,False,1.0171089241458147
+Jadon Sancho,FW,Chelsea,False,False,False,1.1815998373269365
+Jahmai Simpson-Pusey,DF,Manchester City,False,True,False,1.8057815426315937
+Jake Evans,FW,Leicester City,False,False,False,1.006543317714301
+Jake O'Brien,DF,Everton,False,False,False,1.0841993474300813
+Jakub Kiwior,DF,Arsenal,False,False,False,1.076414836617857
+Jakub Moder,MF,Brighton,False,True,False,10.898381787200726
+Jakub Stolarczyk,GK,Leicester City,False,True,False,1.6918603106451513
+James Bree,DF,Southampton,False,False,False,1.0511169919508392
+James Garner,MF,Everton,False,False,False,1.129710131519843
+James Hill,DF,Bournemouth,False,False,False,1.127282122702701
+James Justin,DF,Leicester City,False,False,False,1.0716022805290306
+James Maddison,MF,Tottenham,True,False,False,1.2930120339711066
+James Mcatee,MF,Manchester City,False,False,False,1.1152629882914802
+James Milner,MF,Brighton,False,False,False,0.9743175599016363
+James Tarkowski,DF,Everton,False,False,False,1.124959204414409
+James Ward-Prowse,MF,Nott'ham Forest,False,False,False,1.5024323790800493
+James Ward-Prowse,MF,West Ham,False,False,False,1.2592464101342806
+Jamie Vardy,FW,Leicester City,False,False,False,1.2155658649210908
+Jan Bednarek,DF,Southampton,False,False,False,1.1696044304647728
+Jan Paul van Hecke,DF,Brighton,True,False,False,1.108644772386337
+Jannik Vestergaard,DF,Leicester City,False,False,False,1.060495196018381
+Jarell Quansah,DF,Liverpool,False,False,False,1.1118889890561567
+Jarrad Branthwaite,DF,Everton,False,False,False,1.1400758846891226
+Jarrod Bowen,FW,West Ham,True,False,False,1.272026253682868
+Jason Steele,GK,Brighton,False,True,False,1.7700312993755012
+Jay Robinson,MF,Southampton,False,False,False,1.5306989212818627
+Jay Stansfield,MF,Fulham,False,False,False,1.186247053520898
+Jayden Danns,MF,Liverpool,False,False,False,0.9907877786804071
+Jayden Meghoma,DF,Brentford,False,False,False,0.9923034290827644
+Jean-Clair Todibo,DF,West Ham,False,False,False,1.0386316183497413
+Jean-Philippe Mateta,FW,Crystal Palace,False,False,False,1.1415008014536645
+Jean-Ricner Bellegarde,MF,Wolves,False,False,False,1.2503402453212331
+Jefferson Lerma,MF,Crystal Palace,False,False,False,1.0636543679438102
+Jeffrey Schlupp,MF,Crystal Palace,False,False,False,0.9623285602610577
+Jens Cajuste,MF,Ipswich Town,False,False,False,1.065497042207265
+Jeremy Doku,FW,Manchester City,False,False,False,1.188138523024299
+Jeremy Monga,FW,Leicester City,False,False,False,0.9686481981901964
+Jeremy Sarmiento,MF,Brighton,False,False,False,0.9942552449114472
+Jesper Lindstrøm,FW,Everton,False,False,False,1.5139349349147095
+Joachim Andersen,DF,Crystal Palace,False,False,False,0.9944497192869942
+Joachim Andersen,DF,Fulham,True,False,False,1.2311409079764284
+Joachim Kayi Sanda,DF,Southampton,False,False,False,0.9947962949154535
+Joe Aribo,MF,Southampton,False,False,False,1.0094274134855121
+Joe Gomez,DF,Liverpool,False,False,False,1.1066624168964032
+Joe Lumley,GK,Southampton,False,True,False,1.733571051921014
+Joe Willock,MF,Newcastle Utd,False,False,False,1.1391818289554663
+Joel Ward,DF,Crystal Palace,False,False,False,0.996212119266786
+Joelinton,MF,Newcastle Utd,False,False,False,1.081282230359911
+John McGinn,MF,Aston Villa,False,False,False,1.1986069240545896
+John Stones,DF,Manchester City,False,True,False,1.683809139980465
+Jonny Evans,DF,Manchester Utd,False,False,False,1.0247227959050378
+Jordan Ayew,FW,Crystal Palace,False,True,False,3.060954682850133
+Jordan Ayew,FW,Leicester City,False,False,False,1.360603136040645
+Jordan Pickford,GK,Everton,True,False,False,1.3859327167903195
+Jorge Cuenca,DF,Fulham,False,False,False,1.0612290144505323
+Jorginho,MF,Arsenal,False,False,False,1.1089009873466673
+Joshua Acheampong,DF,Chelsea,False,False,False,1.0122556397095903
+Joshua King,MF,Fulham,False,False,False,1.3438937345010333
+Joshua Zirkzee,FW,Manchester Utd,False,False,False,1.135104165853405
+José Sá,GK,Wolves,False,False,False,1.1264341443381152
+Jota Silva,FW,Nott'ham Forest,False,False,False,1.1367934532106143
+João Félix,FW,Chelsea,False,False,False,1.1738103733691194
+João Gomes,MF,Wolves,False,False,False,1.1498704083364248
+João Pedro,FW,Brighton,False,False,False,1.4183210458506976
+Joël Veltman,DF,Brighton,False,False,False,1.0596899706169267
+Joško Gvardiol,DF,Manchester City,True,False,False,1.2343513792386365
+Julian Araujo,DF,Bournemouth,False,True,False,1.8824697166639854
+Julio Enciso,MF,Brighton,False,False,False,1.5431827833168112
+Julio Enciso,MF,Ipswich Town,False,False,False,1.2580451191760589
+Julio Soler,DF,Bournemouth,False,False,False,1.0021142844656876
+Jurriën Timber,DF,Arsenal,False,False,False,1.1238611121895166
+Justin Devenny,MF,Crystal Palace,False,False,False,1.3159211563315247
+Justin Kluivert,MF,Bournemouth,False,False,False,1.4526813713117317
+Jáder Durán,FW,Aston Villa,False,False,False,1.178914417129872
+Jørgen Strand Larsen,FW,Wolves,False,False,False,1.3126979027943035
+Kaelan Casey,DF,West Ham,False,False,False,1.1862404733664407
+Kai Havertz,FW,Arsenal,False,False,False,1.107466566297953
+Kalvin Phillips,MF,Ipswich Town,False,False,False,1.249853616441884
+Kamaldeen Sulemana,FW,Southampton,False,False,False,1.2330453048942105
+Kaoru Mitoma,FW,Brighton,False,False,False,1.0684841050086118
+Kasey McAteer,FW,Leicester City,False,False,False,1.099527333074651
+Keane Lewis-Potter,DF,Brentford,False,False,False,1.169513516143392
+Kenny Tete,DF,Fulham,False,False,False,1.096161412428805
+Kepa Arrizabalaga,GK,Bournemouth,False,False,False,1.1705456271471903
+Kevin Danso,DF,Tottenham,False,False,False,1.0998186289183
+Kevin De Bruyne,MF,Manchester City,True,False,False,1.2144459278469872
+Kevin Schade,FW,Brentford,False,False,False,1.152213737329061
+Kieran Tierney,DF,Arsenal,False,False,False,1.2442921528603086
+Kieran Trippier,DF,Newcastle Utd,False,True,False,2.6718702624766175
+Kiernan Dewsbury-Hall,MF,Chelsea,False,False,False,1.4725768378137296
+Kim Jisoo,DF,Brentford,False,False,False,1.0023730577981866
+Kobbie Mainoo,MF,Manchester Utd,False,False,False,1.0823636008826751
+Konstantinos Mavropanos,DF,West Ham,False,False,False,1.1855764834576616
+Kosta Nedeljković,DF,Aston Villa,False,True,False,1.8976111025670046
+Kostas Tsimikas,DF,Liverpool,False,False,False,1.2395777552230247
+Kristoffer Ajer,DF,Brentford,False,False,False,1.0624538504164556
+Kyle Walker,DF,Manchester City,False,False,False,1.1050588116058953
+Kyle Walker-Peters,DF,Southampton,False,False,False,1.0971472808777911
+Lamare Bogarde,DF,Aston Villa,False,False,False,1.1126364726078888
+Leandro Trossard,FW,Arsenal,False,False,False,1.0481497312946144
+Leif Davis,DF,Ipswich Town,True,False,False,1.353302395882111
+Leny Yoro,DF,Manchester Utd,False,False,False,1.1000019107765726
+Leon Bailey,FW,Aston Villa,False,False,False,1.158440999203131
+Lesley Ugochukwu,MF,Southampton,False,False,False,1.0745353825440955
+Levi Colwill,DF,Chelsea,True,False,False,1.118056487605397
+Lewis Cook,MF,Bournemouth,True,False,False,1.2252638677698093
+Lewis Dunk,DF,Brighton,False,False,False,1.0767092941392575
+Lewis Hall,DF,Newcastle Utd,True,False,False,1.17478235527635
+Lewis Miley,MF,Newcastle Utd,False,False,False,1.0459708358317434
+Lewis Orford,MF,West Ham,False,False,False,0.9839928121735987
+Liam Delap,FW,Ipswich Town,False,False,False,1.260285649075973
+Lisandro Martínez,DF,Manchester Utd,False,False,False,1.0191292165081254
+Lloyd Kelly,DF,Newcastle Utd,False,False,False,1.1512622158186963
+Lucas Bergvall,MF,Tottenham,False,False,False,1.0973584234413847
+Lucas Digne,DF,Aston Villa,False,False,False,1.1718710228026417
+Lucas Paquetá,MF,West Ham,True,False,False,1.4715357022733324
+Luis Díaz,FW,Liverpool,False,False,False,1.0742045526496606
+Luis Guilherme,MF,West Ham,False,False,False,1.0179961572977092
+Luis Sinisterra,FW,Bournemouth,False,False,False,1.2497541137882657
+Luke Shaw,DF,Manchester Utd,False,False,False,1.1692758039134412
+Luke Thomas,DF,Leicester City,False,False,False,1.0769857368800597
+Luke Woolfenden,DF,Ipswich Town,False,False,False,1.1018274194219355
+Mads Hermansen,GK,Leicester City,False,False,False,1.1493464779022902
+Mads Roerslev,DF,Brentford,False,False,False,1.0768613993739433
+Malo Gusto,DF,Chelsea,False,False,False,1.0529963522401284
+Manuel Akanji,DF,Manchester City,False,False,False,1.0981736031374458
+Manuel Ugarte,MF,Manchester Utd,False,False,False,1.040735719732786
+Marc Cucurella,DF,Chelsea,False,False,False,1.1623537981940921
+Marc Guiu,FW,Chelsea,False,False,False,0.995226457961102
+Marc Guéhi,DF,Crystal Palace,False,False,False,1.0585314347233938
+Marco Asensio,MF,Aston Villa,False,False,False,1.2553711277875208
+Marcos Senesi,DF,Bournemouth,False,False,False,1.3150320575287773
+Marcus Harness,MF,Ipswich Town,False,True,False,1.851752687691239
+Marcus Rashford,FW,Aston Villa,False,False,False,1.3081087236745534
+Marcus Rashford,FW,Manchester Utd,False,False,False,1.1658874786744746
+Marcus Tavernier,FW,Bournemouth,False,False,False,1.1965479766325442
+Mario Lemina,MF,Wolves,False,False,False,1.178800607056625
+Mark Flekken,GK,Brentford,True,False,False,1.3595801684184905
+Mark Travers,GK,Bournemouth,False,True,False,1.8944431603120762
+Marshall Munetsi,MF,Wolves,False,False,False,1.0626132781105164
+Martial Godo,FW,Fulham,False,True,False,2.705119835907838
+Martin Dúbravka,GK,Newcastle Utd,False,False,False,1.530308113158984
+Martin Ødegaard,MF,Arsenal,True,False,False,1.252297138497389
+Mason Holgate,FW,Everton,False,False,False,0.9910474082708973
+Mason Mount,MF,Manchester Utd,False,False,False,1.1876608601488916
+Massimo Luongo,MF,Ipswich Town,False,True,False,2.18213791397124
+Mateo Kovačić,MF,Manchester City,True,False,False,1.3933354169990972
+Mateus Fernandes,MF,Southampton,True,False,False,1.1572691177287093
+Mateus Mane,MF,Wolves,False,False,False,1.195331536960844
+Matheus Cunha,MF,Wolves,True,True,True,1.6388687693607218
+Matheus França,MF,Crystal Palace,False,True,False,1.6833352237886199
+Matheus Nunes,DF,Manchester City,False,False,False,1.1912269053900728
+Mathias Jensen,MF,Brentford,False,False,False,1.3252181731136692
+Mathis Amougou,MF,Chelsea,False,False,False,0.9937513585066899
+Mathys Tel,FW,Tottenham,False,False,False,1.1585504035603171
+Mats Wieffer,DF,Brighton,False,False,False,1.0656363258893955
+Matt Doherty,DF,Wolves,False,False,False,1.1228951874338753
+Matt O'Riley,MF,Brighton,False,False,False,1.2841118990328284
+Matt Targett,DF,Newcastle Utd,False,True,False,3.8612228443171097
+Matthijs de Ligt,DF,Manchester Utd,False,False,False,1.061169995897988
+Matty Cash,DF,Aston Villa,False,False,False,1.0609963887289484
+Matz Sels,GK,Nott'ham Forest,False,False,False,1.202238402181953
+Max Aarons,DF,Bournemouth,False,True,False,1.776634091923114
+Max Kilman,DF,West Ham,False,False,False,1.0556894550110667
+Maxence Lacroix,DF,Crystal Palace,False,False,False,1.1614078103905785
+Maxwel Cornet,FW,Southampton,False,False,False,1.0889418262572632
+Michael Golding,MF,Leicester City,False,False,False,1.186247053520898
+Michael Kayode,DF,Brentford,False,False,False,1.3782845720540182
+Michael Keane,DF,Everton,False,False,False,1.1847128610126925
+Michail Antonio,FW,West Ham,False,True,False,1.733579420851876
+Micky van de Ven,DF,Tottenham,False,False,False,1.0818320831652786
+Miguel Almirón,FW,Newcastle Utd,False,False,False,1.0387461021008946
+Mikel Merino,MF,Arsenal,False,False,False,1.1222112827923456
+Mikey Moore,FW,Tottenham,False,False,False,1.423681711031549
+Mikkel Damsgaard,MF,Brentford,True,False,False,1.2789487320012665
+Milos Kerkez,DF,Bournemouth,True,False,False,1.156181360393163
+Mohamed Salah,FW,Liverpool,True,True,True,2.2084459244476475
+Mohammed Kudus,FW,West Ham,False,False,False,1.2505953061845327
+Moisés Caicedo,MF,Chelsea,True,False,False,1.2307726392595701
+Morato,DF,Nott'ham Forest,False,False,False,1.179314187294755
+Morgan Gibbs-White,MF,Nott'ham Forest,True,False,False,1.3224871176701996
+Morgan Rogers,FW,Aston Villa,True,False,False,1.2014422937202744
+Murillo,DF,Nott'ham Forest,False,False,False,1.2772222599218135
+Mykhailo Mudryk,FW,Chelsea,False,False,False,1.4191730847155921
+Myles Lewis-Skelly,DF,Arsenal,False,False,False,1.1363741758113846
+Nasser Djiga,DF,Wolves,False,False,False,1.3254898057522966
+Nathan Aké,DF,Manchester City,False,False,False,1.140521285727456
+Nathan Broadhead,MF,Ipswich Town,False,False,False,1.0231249703233531
+Nathan Butler-Oyedeji,FW,Arsenal,False,True,False,2.1198249469848243
+Nathan Collins,DF,Brentford,False,False,False,1.0923216375987974
+Nathan Patterson,DF,Everton,False,False,False,1.1186401331869695
+Nathan Wood-Gordon,DF,Southampton,False,False,False,1.1421118431004922
+Nathaniel Clyne,DF,Crystal Palace,False,False,False,1.1736762967412013
+Neco Williams,DF,Nott'ham Forest,False,False,False,1.1391183070631858
+Neto,GK,Bournemouth,False,True,False,2.1624726931171656
+Nick Pope,GK,Newcastle Utd,False,False,False,1.204299032198091
+Niclas Füllkrug,FW,West Ham,False,False,False,1.0714561484592386
+Nico O’Reilly,DF,Manchester City,False,False,False,1.031212169860821
+Nicolas Jackson,FW,Chelsea,False,False,False,1.1960234474591056
+Nicolás Domínguez,MF,Nott'ham Forest,False,False,False,1.0746970086057734
+Nicolás González,MF,Manchester City,False,False,False,1.2304266464854665
+Nikola Milenković,DF,Nott'ham Forest,False,False,False,1.1864342223392015
+Noni Madueke,FW,Chelsea,False,False,False,1.0980730612129586
+Noussair Mazraoui,DF,Manchester Utd,False,False,False,1.0780163079505596
+Nélson Semedo,DF,Wolves,False,False,False,1.079990158616066
+Odsonne Édouard,MF,Crystal Palace,False,False,False,1.0276751031999687
+Odsonne Édouard,FW,Leicester City,False,False,False,0.9919079205851805
+Ola Aina,DF,Nott'ham Forest,False,False,False,1.147491843314814
+Olabade Aluko,DF,Leicester City,False,False,False,1.2010607744150141
+Oleksandr Zinchenko,DF,Arsenal,False,False,False,1.1958923938852264
+Oliver Scarles,DF,West Ham,False,False,False,1.1019697740337937
+Oliver Skipp,MF,Leicester City,False,False,False,1.095040573293882
+Ollie Watkins,FW,Aston Villa,True,False,False,1.204623540141629
+Omar Marmoush,FW,Manchester City,False,False,False,1.4837351179131002
+Omari Hutchinson,MF,Ipswich Town,False,False,False,1.1740262543105389
+Orel Mangala,MF,Everton,False,False,False,1.1150686340907408
+Oscar Bobb,FW,Manchester City,False,False,False,0.990863382431834
+Pablo Sarabia,MF,Wolves,False,False,False,1.3582034581627351
+Pape Matar Sarr,MF,Tottenham,False,False,False,1.02815298460878
+Patrick Dorgu,DF,Manchester Utd,False,False,False,1.1270175344055797
+Patson Daka,FW,Leicester City,False,False,False,1.3158675188852036
+Pau Torres,DF,Aston Villa,False,False,False,1.1175277762456648
+Paul Onuachu,FW,Southampton,False,False,False,1.1229186371288344
+Pedro Lima,DF,Wolves,False,False,False,0.9866694295461531
+Pedro Neto,FW,Chelsea,False,False,False,1.2431137627600597
+Pedro Porro,DF,Tottenham,True,False,False,1.4403364271500962
+Pervis Estupiñán,DF,Brighton,False,False,False,1.1235005874535209
+Phil Foden,MF,Manchester City,False,False,False,1.2169239573590285
+Philip Billing,MF,Bournemouth,False,False,False,1.491199008890142
+Radu Drăgușin,DF,Tottenham,False,False,False,1.0900724683950864
+Raheem Sterling,FW,Arsenal,False,False,False,1.4994762057570385
+Ramón Sosa,FW,Nott'ham Forest,False,False,False,1.241471941141713
+Rasmus Højlund,FW,Manchester Utd,False,False,False,1.2134014959631165
+Rayan Aït-Nouri,DF,Wolves,True,False,False,1.1741472055262268
+Raúl Jiménez,FW,Fulham,False,False,False,1.109655437797413
+Reece James,DF,Chelsea,False,False,False,1.2558246980214116
+Reiss Nelson,FW,Arsenal,False,False,False,1.1884247731934978
+Reiss Nelson,FW,Fulham,False,False,False,1.0873522623568992
+Remy Rees-Dottin,FW,Bournemouth,False,False,False,1.186247053520898
+Renato Veiga,DF,Chelsea,False,False,False,0.9767442264218612
+Ricardo Pereira,DF,Leicester City,False,False,False,1.0664188874594729
+Riccardo Calafiori,DF,Arsenal,False,False,False,1.110159870806652
+Richarlison,FW,Tottenham,False,False,False,1.079347545133937
+Rico Henry,DF,Brentford,False,True,False,2.106753000123007
+Rico Lewis,DF,Manchester City,False,False,False,1.0908815036001176
+Robert Sánchez,GK,Chelsea,False,False,False,1.1498642500557223
+Robin Olsen,GK,Aston Villa,False,True,False,2.88949529122156
+Rodri,MF,Manchester City,False,True,False,1.7424498186174844
+Rodrigo Bentancur,MF,Tottenham,False,False,False,1.007961912083468
+Rodrigo Gomes,DF,Wolves,False,False,False,1.064858544105661
+Rodrigo Muniz,FW,Fulham,False,False,False,1.2032705334477787
+Romain Esse,MF,Crystal Palace,False,True,False,1.9673232481784049
+Roman Dixon,DF,Everton,False,True,False,2.0242217114921535
+Roméo Lavia,MF,Chelsea,False,False,False,1.1063717559120068
+Ronnie Edwards,DF,Southampton,False,False,False,0.9875329310500511
+Ross Barkley,MF,Aston Villa,False,False,False,1.0421496886244657
+Ross Stewart,FW,Southampton,False,False,False,1.3682538584031048
+Ryan Christie,MF,Bournemouth,False,False,False,1.1736623071870966
+Ryan Fraser,FW,Southampton,False,False,False,1.1175569484462944
+Ryan Gravenberch,MF,Liverpool,False,False,False,1.108847782592782
+Ryan Manning,DF,Southampton,False,False,False,1.265663016660943
+Ryan Sessegnon,FW,Fulham,False,False,False,1.1092688536624133
+Ryan Trevitt,MF,Brentford,False,False,False,1.3022386501844387
+Ryan Yates,MF,Nott'ham Forest,False,False,False,1.0757542742511308
+Rúben Dias,DF,Manchester City,True,False,False,1.1483556859466328
+Sam Johnstone,GK,Wolves,False,True,False,1.6635629275060597
+Sam Morsy,MF,Ipswich Town,False,False,False,1.0770072806352622
+Sammie Szmodics,FW,Ipswich Town,False,False,False,1.0545862968132818
+Samuel Amo-Ameyaw,FW,Southampton,False,False,False,1.113757863179418
+Samuel Edozie,DF,Southampton,False,True,False,2.475088339770518
+Sander Berge,MF,Fulham,False,False,False,1.0246050904401878
+Sandro Tonali,MF,Newcastle Utd,False,False,False,1.113020219307942
+Santiago Bueno,DF,Wolves,False,False,False,1.0526889256478305
+Saša Lukić,MF,Fulham,False,False,False,1.353740244723578
+Scott McTominay,MF,Manchester Utd,False,False,False,1.2283615664123133
+Sean Longstaff,MF,Newcastle Utd,False,False,False,1.2476909615042557
+Sepp van den Berg,DF,Brentford,False,False,False,1.1718037354041804
+Sergio Reguilón,DF,Tottenham,False,False,False,1.0008221035848184
+Shumaira Mheuka,MF,Chelsea,False,True,False,12.289234510166576
+Simon Adingra,FW,Brighton,False,False,False,1.1446661383912822
+Solly March,FW,Brighton,False,False,False,1.2472565244511866
+Son Heung-min,FW,Tottenham,False,False,False,1.0843590811285524
+Stefan Ortega,GK,Manchester City,False,True,False,1.6688503431418809
+Stephy Mavididi,FW,Leicester City,False,False,False,1.1580741033207933
+Sven Botman,DF,Newcastle Utd,False,False,False,1.2278055937310073
+Sávio,FW,Manchester City,False,False,False,1.1951516785045229
+Séamus Coleman,DF,Everton,False,True,False,2.452657205627765
+Taiwo Awoniyi,FW,Nott'ham Forest,False,False,False,1.358100900014572
+Takehiro Tomiyasu,DF,Arsenal,False,True,False,2.373986763796501
+Tariq Lamptey,DF,Brighton,False,False,False,1.0775690563496683
+Taylor Harwood-Bellis,DF,Southampton,False,False,False,1.0529344409981596
+Thiago,FW,Brentford,False,False,False,0.9678280178773161
+Thomas Partey,MF,Arsenal,True,False,False,1.1842868372764748
+Tim Iroegbunam,MF,Everton,False,False,False,1.2565296225794589
+Timo Werner,FW,Tottenham,False,False,False,1.2721854033714535
+Timothy Castagne,DF,Fulham,False,False,False,1.0763569779696027
+Toby Collyer,MF,Manchester Utd,False,False,False,1.2344547268771933
+Tom Cairney,MF,Fulham,False,False,False,1.1596103492380778
+Tom King,GK,Wolves,False,False,False,1.1861709906128814
+Tommy Doyle,MF,Wolves,False,False,False,1.2907568548006503
+Tomáš Souček,MF,West Ham,False,False,False,1.2095882215936133
+Tosin Adarabioyo,DF,Chelsea,False,False,False,1.1441230564284148
+Toti Gomes,DF,Wolves,False,False,False,1.057336827618836
+Trent Alexander-Arnold,DF,Liverpool,True,False,False,1.2873350941494521
+Trevoh Chalobah,DF,Chelsea,False,False,False,1.0658665422269578
+Trevoh Chalobah,DF,Crystal Palace,False,False,False,1.0555974032010509
+Tyler Adams,MF,Bournemouth,False,False,False,1.1365641018130417
+Tyler Dibling,FW,Southampton,False,False,False,1.1213622129006169
+Tyler Fredricson,DF,Manchester Utd,False,False,False,1.5658495612295322
+Tyrell Malacia,DF,Manchester Utd,False,False,False,1.574675572786319
+Tyrick Mitchell,DF,Crystal Palace,False,False,False,1.1285777554117666
+Tyrique George,FW,Chelsea,False,False,False,1.1195660698573382
+Tyrone Mings,DF,Aston Villa,False,False,False,1.0807232872942216
+Valentino Livramento,DF,Newcastle Utd,False,False,False,1.0945044930767738
+Victor Bernth Kristiansen,DF,Leicester City,False,False,False,1.0994311004894006
+Victor Lindelöf,DF,Manchester Utd,False,False,False,1.5582717525765741
+Virgil van Dijk,DF,Liverpool,True,False,False,1.316957258576432
+Vitaliy Mykolenko,DF,Everton,False,False,False,1.173636049336882
+Vitaly Janelt,MF,Brentford,False,False,False,1.0211695045295426
+Vitezslav Jaros,GK,Liverpool,False,False,False,0.9858282296330003
+Vitor Reis,DF,Manchester City,False,False,False,1.1861619980391105
+Vladimír Coufal,DF,West Ham,False,False,False,1.132600404915343
+Wataru Endo,MF,Liverpool,False,True,False,2.0871936012442016
+Welington,DF,Southampton,False,False,False,1.2100825380530777
+Wes Burns,FW,Ipswich Town,False,False,False,1.3560907548831056
+Wesley Fofana,DF,Chelsea,False,False,False,1.058873805890333
+Wilfred Ndidi,MF,Leicester City,False,False,False,1.15477309887649
+Will Alves,FW,Leicester City,False,False,False,1.1860482062210074
+Will Hughes,MF,Crystal Palace,False,False,False,1.2327220252646973
+Will Lankshear,FW,Tottenham,False,False,False,0.9908481981774268
+William Osula,FW,Newcastle Utd,False,False,False,1.144466094792093
+William Saliba,DF,Arsenal,True,False,False,1.268592244193399
+William Smallbone,MF,Southampton,False,False,False,1.2151549230051923
+Willian,FW,Fulham,False,False,False,1.4166972059139726
+Willy Boly,DF,Nott'ham Forest,False,False,False,0.980189258153735
+Wilson Odobert,FW,Tottenham,False,False,False,1.143684226795703
+Wout Faes,DF,Leicester City,False,False,False,1.0399860052534264
+Woyo Coulibaly,DF,Leicester City,False,False,False,0.9807759322876949
+Yankuba Minteh,FW,Brighton,False,False,False,1.1031436426037537
+Yasin Ayari,MF,Brighton,False,False,False,1.163271481800691
+Yehor Yarmoliuk,MF,Brentford,False,False,False,1.0745915262515755
+Yerson Mosquera,DF,Wolves,False,False,False,1.253899210679756
+Yoane Wissa,FW,Brentford,True,False,False,1.1437243851810235
+Youri Tielemans,MF,Aston Villa,True,False,False,1.280341809553342
+Youssef Chermiti,FW,Everton,False,False,False,1.0535102213899648
+Yukinari Sugawara,DF,Southampton,False,False,False,1.138376090305162
+Yunus Emre Konak,FW,Brentford,False,False,False,1.1502614147072192
+Yves Bissouma,MF,Tottenham,False,False,False,1.0330492289080815
+Zain Silcott-Duberry,FW,Bournemouth,False,False,False,1.1984597727453425
+Álex Moreno,DF,Nott'ham Forest,False,False,False,1.1861365490367983
+İlkay Gündoğan,MF,Manchester City,True,False,False,1.267875084196303
+Łukasz Fabiański,GK,West Ham,False,True,False,1.758619675673108
