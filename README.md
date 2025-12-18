@@ -16,18 +16,21 @@ Data_mining-main/
 │   ├── 2_association_rules.ipynb
 │   ├── 3_clustering.ipynb
 │   ├── 4_classification.ipynb
-│   └── 5_anomaly_detection.ipynb
+│   ├── 5_anomaly_detection.ipynb
+│   └── 6_recommendation_system.ipynb
 ├── src/                           # Code Python modules
 │   ├── data_preprocessing.py
 │   ├── association_rules.py
 │   ├── clustering.py
 │   ├── classification.py
-│   └── anomaly_detection.py
+│   ├── anomaly_detection.py
+│   └── recommendation_system.py
 ├── results/                       # Kết quả và visualizations
 │   ├── association_rules/
 │   ├── clustering/
 │   ├── classification/
-│   └── anomaly_detection/
+│   ├── anomaly_detection/
+│   └── recommendation_system/
 ├── requirements.txt
 ├── main.py
 └── README.md
@@ -77,6 +80,12 @@ Chạy các notebook theo thứ tự:
    - Isolation Forest và LOF
    - Visualize outliers
 
+6. **Recommendation System** (`notebooks/6_recommendation_system.ipynb`)
+   - Tìm cầu thủ tương tự (Similarity-based)
+   - Gợi ý cầu thủ cho đội bóng (Team needs-based)
+   - Gợi ý dựa trên phong cách chơi (Style-based)
+   - Tạo player profile
+
 ### Chạy main script
 
 ```bash
@@ -113,6 +122,11 @@ Tất cả kết quả sẽ được lưu trong thư mục `results/`:
 4. **Anomaly Detection**
    - Isolation Forest
    - Local Outlier Factor (LOF)
+
+5. **Recommendation System**
+   - Content-based filtering (Cosine Similarity)
+   - Team needs-based recommendations
+   - Style-based recommendations
 
 ## Lưu ý
 

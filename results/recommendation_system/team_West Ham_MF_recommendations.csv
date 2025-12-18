@@ -1,0 +1,6 @@
+Player,Pos,Squad,Recommendation_Score,shooting_Standard_Gls,passing_Ast,shooting_Expected_xG,passing_xAG
+Cole Palmer,MF,Chelsea,51.199999999999996,15,8,17.3,10.9
+Matheus Cunha,MF,Wolves,37.300000000000004,15,6,8.6,7.7
+Bruno Fernandes,MF,Manchester Utd,36.4,8,10,9.9,8.5
+Ismaila Sarr,MF,Crystal Palace,33.2,8,6,10.7,8.5
+Justin Kluivert,MF,Bournemouth,33.1,12,6,10.3,4.8
