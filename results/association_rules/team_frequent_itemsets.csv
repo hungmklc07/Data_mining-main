@@ -14,7 +14,7 @@ support,itemsets
 0.35,frozenset({'xGA_category=High'})
 0.35,frozenset({'GF_category=Low'})
 0.35,frozenset({'Pts_category=Low'})
-0.3,"frozenset({'GA_category=High', 'Pts_category=Low'})"
-0.3,"frozenset({'GA_category=High', 'xGA_category=High'})"
-0.3,"frozenset({'GA_category=High', 'Pts_category=Low', 'xGA_category=High'})"
+0.3,"frozenset({'Pts_category=Low', 'GA_category=High'})"
+0.3,"frozenset({'xGA_category=High', 'GA_category=High'})"
+0.3,"frozenset({'Pts_category=Low', 'xGA_category=High', 'GA_category=High'})"
 0.3,"frozenset({'Pts_category=Low', 'xGA_category=High'})"
